@@ -4,6 +4,7 @@
 - Change your guess.
 - The app will tell you when you are right, and how many guesses you had.
 
-https://github.com/Ayman-Sedik/GuessMyNumber-Game/assets/87248906/7462a488-1cc3-4a34-9ebe-49c3e99676ae
+## Demo
+https://github.com/Ayman-Sedik/GuessMyNumber-Game/assets/87248906/95e421d9-b60b-4835-9f51-c723d7e8a050
 
 
