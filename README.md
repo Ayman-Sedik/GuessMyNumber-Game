@@ -1,4 +1,4 @@
-# Guess My Number!
+# Guess My Number! - v 1.0.0
 - Enter your guess between 1 and 20 and press Check.
 - See if your guess is too high or too low.
 - Change your guess.
